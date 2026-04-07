@@ -48,5 +48,3 @@ From the project root:
 jupyter notebook WeatherPredictor.ipynb
 ```
 
-## Notes
-This is a structured, reproducible machine learning project suitable for portfolio presentation.
